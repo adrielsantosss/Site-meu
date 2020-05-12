@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/fundo-gradiente-suave_77528-21.jpg');
+    background-size: auto 800px;
+    font-family: Arial;
+    height: 100hv;  
+}
+
+.menu {
+  background-color: CornFlowerBlue;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+  font-style: italic;
+}
+
+a {
+  color: Black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: overline underline white;
+}
+
+.title,
+.sub-title {
+  color: WhiteSmoke;
+  text-align: center;
+}
+
+.sub-title {
+  font-style: italic;
+}

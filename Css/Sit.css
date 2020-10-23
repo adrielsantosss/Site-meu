@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('../img/fundo2.png');
+  background-image: url('../img/fundoo.png');
   background-size: 200%;
   font-family: 'Bellota Text', cursive;
   height: 100hv;  
@@ -135,5 +135,3 @@ ul li a:hover {
 	background: rgba(1, 17, 90, 0.877);
 	border-radius: 4px;
 }
-#rgb(77,6,6)
-#rgb(251,176,59)

@@ -109,7 +109,6 @@ a {
 }
 
 .O-titles figure {
-  color: rgb(251,176,59);
   text-align: center;
   font-family: 'Poppins', cursive;
 }
@@ -127,6 +126,7 @@ a {
 }
 
 figcaption {
+  color: rgb(251,176,59);
   font-weight: bold;
   margin-bottom: -15px;
   font-size: 20px;

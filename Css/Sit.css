@@ -82,12 +82,12 @@ a {
 }
 
 .O-titles h2{
-  font-family: 'Poppins', monospace;
+  font-family: 'Anonymous Pro', monospace;
   text-align: left;
   margin: 0px 360px;
   font-size: 2.5em;
   text-align: center;
-  background-color: rgb(251,176,59);
+  background-color: whitesmoke;
   border-style: solid;
 }
 
@@ -109,9 +109,9 @@ a {
 }
 
 .O-titles figure {
+  color: rgb(251,176,59);
   text-align: center;
   font-family: 'Poppins', cursive;
-  color: rgb(251,176,59);
 }
 
 .img-msc {
